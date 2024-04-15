@@ -1,0 +1,18 @@
+# This file contains all the necessary packages for the MarsAnalysis project.
+
+# Web scraping tools
+splinter==0.14.0  # Automates browser actions for scraping data
+beautifulsoup4==4.9.3  # Parses HTML and XML documents
+
+# Data handling library
+pandas==1.2.4  # Provides data structures and data analysis tools
+
+# Visualization library
+matplotlib==3.4.1  # Generates plots and other 2D data visualizations
+
+# Interactive Python notebook server
+notebook==6.3.0  # Serves Jupyter notebooks for data analysis
+
+# Use a specific version of Python
+# Requires Python 3.8 or newer; uncomment the line below if managing with a compatible tool
+# python_version >= '3.8'
