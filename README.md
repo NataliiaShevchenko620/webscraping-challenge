@@ -98,8 +98,14 @@ This section provides detailed steps on how to use the MarsAnalysis project to s
 - Outputs from cells (e.g., data tables, plots) will appear directly below the cells as they are executed.
 - You can modify parameters or code to tweak data scraping criteria or analysis methods and re-run the cells to see different results.
 
+#### Average Minimum Temperature by Month on Mars
+![bar_chart](Images/bar_chart.png)
 
-By following these instructions, users can maximize the effectiveness of the MarsAnalysis project for both educational and research purposes.```
+#### Minimum Temperature over Terrestrial Days
+![line_chart](Images/line_chart.png)
+
+
+By following these instructions, users can maximize the effectiveness of the MarsAnalysis project for both educational and research purposes.
 
 This section of your `README.md` will guide users through the process of running the Jupyter notebooks included in the MarsAnalysis project, helping them understand how to interact with the project's tools and data effectively.
 
